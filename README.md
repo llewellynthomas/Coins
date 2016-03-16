@@ -6,3 +6,4 @@
 ## Install
 
 Git clone this project, cd into Coins and run Composer install
+
