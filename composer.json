@@ -1,0 +1,15 @@
+{
+    "name": "llewellynthomas/coins",
+    "type": "Coins",
+    "authors": [
+        {
+            "name": "Llewellyn Thomas",
+            "email": "llewellynthomas@mac.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"LlewellynThomas\\Coins\\": "src/LlewellynThomas/Coins/"}
+    }
+}
